@@ -1,8 +1,4 @@
-# Sign World Prints — Website Redesign
 
-This is the codebase for the newly redesigned **Sign World Prints** website, featuring modern aesthetics, a responsive 3D rotating canvas background globe, dynamic client marquees, and an admin live-chat/message dashboard.
-
-Original design: [Figma Design](https://www.figma.com/design/8dskV0ZZq4n4XfG82Pllvs/Website-Redesign).
 
 ---
 
